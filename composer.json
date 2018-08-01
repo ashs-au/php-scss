@@ -1,0 +1,6 @@
+{
+    "require": {
+        "leafo/scssphp": "0.0.*",
+	"twbs/bootstrap": "3.3.*"
+    }
+}
